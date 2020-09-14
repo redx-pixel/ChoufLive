@@ -1,0 +1,22 @@
+[
+{
+    "provinceState": null,
+    "countryRegion": "Berkane",
+    "lastUpdate": 1600097168000,
+    "lat": 34.9266755,
+    "long": --2.3294087,
+    "confirmed": 81,
+    "recovered": 6,
+    "deaths": 15,
+    "active": 12,
+    "admin2": null,
+    "fips": null,
+    "combinedKey": "Berkane",
+    "incidentRate": 234.854211632347,
+    "peopleTested": null,
+    "peopleHospitalized": null,
+    "uid": 504,
+    "iso3": "MAR",
+    "iso2": "MA"
+  }
+]
