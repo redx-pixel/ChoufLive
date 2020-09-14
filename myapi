@@ -1,14 +1,14 @@
 {
   "confirmed": {
-    "value": 29059868,
+    "value": 86686,
     "detail": "https://covid19.mathdro.id/api/confirmed"
   },
   "recovered": {
-    "value": 19653210,
+    "value": 67528,
     "detail": "https://covid19.mathdro.id/api/recovered"
   },
   "deaths": {
-    "value": 925084,
+    "value": 1578,
     "detail": "https://covid19.mathdro.id/api/deaths"
   },
   "dailySummary": "https://covid19.mathdro.id/api/daily",
