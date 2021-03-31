@@ -1,27 +1,31 @@
 {
-  "confirmed": {
-    "value": 86686,
-    "detail": "https://covid19.mathdro.id/api/confirmed"
-  },
-  "recovered": {
-    "value": 67528,
-    "detail": "https://covid19.mathdro.id/api/recovered"
-  },
-  "deaths": {
-    "value": 1578,
-    "detail": "https://covid19.mathdro.id/api/deaths"
-  },
-  "dailySummary": "https://covid19.mathdro.id/api/daily",
-  "dailyTimeSeries": {
-    "pattern": "https://covid19.mathdro.id/api/daily/[dateString]",
-    "example": "https://covid19.mathdro.id/api/daily/2-14-2020"
-  },
-  "image": "https://covid19.mathdro.id/api/og",
-  "source": "https://github.com/mathdroid/covid19",
-  "countries": "https://covid19.mathdro.id/api/countries",
-  "countryDetail": {
-    "pattern": "https://covid19.mathdro.id/api/countries/[country]",
-    "example": "https://covid19.mathdro.id/api/countries/USA"
-  },
-  "lastUpdate": "2020-09-14T15:26:08.000Z"
+  "status": "ok",
+  "count": 5,
+  "categories": [
+    {
+      "cid": 36,
+      "category_name": "News",
+      "category_image": "2999-2017-04-20.jpg"
+    },
+    {
+      "cid": 35,
+      "category_name": "Music",
+      "category_image": "7102-2017-04-13.png"
+    },
+    {
+      "cid": 34,
+      "category_name": "Education",
+      "category_image": "6094-2017-04-13.png"
+    },
+    {
+      "cid": 33,
+      "category_name": "Sports",
+      "category_image": "2277-2017-04-13.png"
+    },
+    {
+      "cid": 32,
+      "category_name": "Entertainment",
+      "category_image": "3455-2017-04-13.png"
+    }
+  ]
 }
